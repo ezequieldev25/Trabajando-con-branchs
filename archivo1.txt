@@ -1,0 +1,2 @@
+Voy a darle todo mi contenido a este archivo
+Es sencillo aprender git
