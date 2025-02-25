@@ -6,3 +6,4 @@ se agrega texto
 Estamos haciendo conflictos en el repositorio remoto, que raro..
 
 Estamos arreglando el conflicto nuevamente...
+nueva modificacioon
