@@ -1,0 +1,2 @@
+Esto es el contenido del archivo 2, vamos con otra cuenta
+Vimos pasar la mañana viendo git
